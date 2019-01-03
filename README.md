@@ -1,4 +1,4 @@
-[![log](http://pkqw68f0l.bkt.clouddn.com/logo.png)](https://github.com/AUGUSTRUSH8)
+[![log](http://pkqw68f0l.bkt.clouddn.com/logo6.jpg)](https://github.com/AUGUSTRUSH8)
 
 
 
@@ -6,9 +6,7 @@
 
 简体中文
 
-[![](https://img.shields.io/badge/author-AugustRush-green.svg)](https://augustrush.me)
-
-[![license](https://img.shields.io/badge/license-GPL--3.0-red.svg)](https://github.com/java-aodeng/hope-plus/blob/master/LICENSE)
+[![](https://img.shields.io/badge/author-AugustRush-green.svg)](https://augustrush.me)[![license](https://img.shields.io/badge/license-GPL--3.0-red.svg)](https://github.com/java-aodeng/hope-plus/blob/master/LICENSE)
 
 ## 简介
 
