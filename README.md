@@ -1,4 +1,4 @@
-[![log](C:\Users\AugustRush\AppData\Roaming\Typora\typora-user-images\1546502750160.png)](https://github.com/AUGUSTRUSH8)
+[![log](http://pkqw68f0l.bkt.clouddn.com/logo.png)](https://github.com/AUGUSTRUSH8)
 
 
 
