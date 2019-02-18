@@ -38,7 +38,13 @@
 
 
 
-## My Blog :rabbit:
+## 项目相关 :rocket:
+
+- SSM脚手架 [传送门](https://github.com/AUGUSTRUSH8/ssm-admin)
+
+> **简单介绍**：技术栈大致有Spring MVC + Spring + Mybatis，其次优化整合了Redis缓存、Druid 数据库连接池等，可作为Web开发脚手架使用
+
+## My Blog 🐰
 
 更多技术阅读分享参见 [我的博客](https://augustrush.me)
 
