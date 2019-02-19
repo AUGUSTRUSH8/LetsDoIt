@@ -1,4 +1,4 @@
-[![log](http://pkqw68f0l.bkt.clouddn.com/logo6.jpg)](https://github.com/AUGUSTRUSH8)
+[![logo](./image/logo1.jpg)](https://github.com/AUGUSTRUSH8)
 
 
 
