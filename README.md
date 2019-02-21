@@ -26,9 +26,9 @@
 
 ## 算法 :pencil2: 
 
-在这里首先推荐Apache CN的一个算法仓库哈，非常优秀:wink:  [传送门](https://github.com/apachecn/awesome-algorithm)<br>
-[宽度优先搜索算法-腐烂的橘子](https://augustrush.me/post/width-priority-algoritm.html)<br>
-[深度优先搜索算法-正方形数组的数目](https://augustrush.me/post/depth-priority-algoritm.html)
+ 在这里首先推荐Apache CN的一个算法仓库哈，非常优秀:wink:  [传送门](https://github.com/apachecn/awesome-algorithm)<br>
+ [宽度优先搜索算法-腐烂的橘子](https://augustrush.me/post/width-priority-algoritm.html)<br>
+- [深度优先搜索算法-正方形数组的数目](https://augustrush.me/post/depth-priority-algoritm.html)
 
 
 
