@@ -39,12 +39,12 @@
 > [Mysql事务隔离级别](https://github.com/AUGUSTRUSH8/LetsDoIt/tree/master/MySQL)
 
 ## Java :coffee:
-[Java后台耗时任务思路](http://augustrush.me/post/time-consuming-task-solution-java.html)
+[Java后台耗时任务思路](http://augustrush.me/post/time-consuming-task-solution-java.html)\n
 [Java异常处理的正确放方式](http://augustrush.me/post/united-exception-handle.html)
 
 ## 人工智能 :alien:
 
-一个六子棋算法实现，棋力不是很高，但速度还行，详情请看ReadMe！  [传送门](https://github.com/AUGUSTRUSH8/SixtChessGo)
+一个六子棋算法实现，棋力不是很高，但速度还行，详情请看ReadMe！  [传送门](https://github.com/AUGUSTRUSH8/SixtChessGo)\n
 [opencv+tensorflow+cnn实现人脸识别](http://augustrush.me/post/face-recognition.html)
 
 
