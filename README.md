@@ -40,14 +40,17 @@
 
 ## Java :coffee:
 [Java后台耗时任务思路](http://augustrush.me/post/time-consuming-task-solution-java.html)<br>
-[Java异常处理的正确放方式](http://augustrush.me/post/united-exception-handle.html)
+[Java异常处理的正确放方式](http://augustrush.me/post/united-exception-handle.html)<br>
+[springboot 笔记](http://augustrush.me/post/springboot-notes.html)
 
 ## 人工智能 :alien:
 
 一个六子棋算法实现，棋力不是很高，但速度还行，详情请看ReadMe！  [传送门](https://github.com/AUGUSTRUSH8/SixtChessGo)<br>
-[opencv+tensorflow+cnn实现人脸识别](http://augustrush.me/post/face-recognition.html)
-
-
+[opencv+tensorflow+cnn实现人脸识别](http://augustrush.me/post/face-recognition.html)<br>
+[pix2pix图像超分辨率](http://augustrush.me/post/pix2pix-network.html)<br>
+[python+opencv检测图片中二维码](http://augustrush.me/post/Qrcode-detection-and-recognition.html)<br>
+[与CPTN（文字识别网络）作斗争的记录](http://augustrush.me/post/CPTN-network.html)<br>
+[seetaface人脸识别](http://augustrush.me/post/seetaface-model-realize.html)
 
 ## 项目相关 :rocket:
 
