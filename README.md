@@ -26,6 +26,8 @@
 
 ## 算法 :pencil2: 
 
+在这里首先推荐Apache CN的一个算法仓库哈，非常优秀:wink:  [传送门](https://github.com/apachecn/awesome-algorithm)
+
 
 
 ## 操作系统 :computer:
@@ -35,6 +37,12 @@
 ## 数据库 :floppy_disk:
 
 > [Mysql事务隔离级别](https://github.com/AUGUSTRUSH8/LetsDoIt/tree/master/MySQL)
+
+
+
+## 人工智能 :alien:
+
+一个六子棋算法实现，棋力不是很高，但速度还行，详情请看ReadMe！  [传送门](https://github.com/AUGUSTRUSH8/SixtChessGo)
 
 
 
