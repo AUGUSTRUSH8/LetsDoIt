@@ -20,7 +20,7 @@
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| 算法[:pencil2:](#算法-pencil2) | 操作系统[:computer:](#操作系统-computer)|网络[:cloud:](#网络-cloud) | 面向对象[:couple:](#面向对象-couple) |数据库[:floppy_disk:](#数据库-floppy_disk)| Java [:coffee:](#Java-coffee)| 分布式[:sweat_drops:](#分布式-sweat_drops)| 工具[:hammer:](#工具-hammer)| 编码实践[:speak_no_evil:](#编码实践-speak_no_evil)| 人工智能[:alien:](#人工智能-alien) |
+| 算法[:pencil2:](#算法-pencil2) | 操作系统[:computer:](#操作系统-computer)|网络[:cloud:](#网络-cloud) | 面向对象[:couple:](#面向对象-couple) |数据库[:floppy_disk:](#数据库-floppy_disk)| Java [:coffee:](#Java-coffee)| 分布式[:sweat_drops:](#分布式-sweat_drops)| 源码阅读[:hammer:](#源码阅读-hammer)| 编码实践[:speak_no_evil:](#编码实践-speak_no_evil)| 人工智能[:alien:](#人工智能-alien) |
 
 
 
@@ -41,24 +41,29 @@
 > [Mysql事务隔离级别](https://github.com/AUGUSTRUSH8/LetsDoIt/tree/master/MySQL)
 
 ## Java :coffee:
-- [Java后台耗时任务思路](http://augustrush.me/post/time-consuming-task-solution-java.html)<br>
-- [Java异常处理的正确放方式](http://augustrush.me/post/united-exception-handle.html)<br>
-- [springboot 笔记](http://augustrush.me/post/springboot-notes.html)
+- [Java后台耗时任务思路](https://augustrush.me/post/time-consuming-task-solution-java.html)<br>
+- [Java异常处理的正确放方式](https://augustrush.me/post/united-exception-handle.html)<br>
+- [springboot 笔记](https://augustrush.me/post/springboot-notes.html)<br>
+- [RabbitMQ学习笔记](https://augustrush.me/post/rabbitMQ-learning-and-coding.html)
 
-## 人工智能 :alien:
+## 源码阅读 :hammer:
+- [Mybatis源码阅读第一话](https://augustrush.me/post/mybatis-sourcecode-reading-1.html)<br>
+- [Mybatis源码阅读第二话--解析器模块](https://augustrush.me/post/mybatis-sourcecode-reading-2.html)
 
-- 一个六子棋算法实现，棋力不是很高，但速度还行，详情请看ReadMe！  [传送门](https://github.com/AUGUSTRUSH8/SixtChessGo)<br>
-- [opencv+tensorflow+cnn实现人脸识别](http://augustrush.me/post/face-recognition.html)<br>
-- [pix2pix图像超分辨率](http://augustrush.me/post/pix2pix-network.html)<br>
-- [python+opencv检测图片中二维码](http://augustrush.me/post/Qrcode-detection-and-recognition.html)<br>
-- [与CPTN（文字识别网络）作斗争的记录](http://augustrush.me/post/CPTN-network.html)<br>
-- [seetaface人脸识别](http://augustrush.me/post/seetaface-model-realize.html)
-
-## 项目相关 :rocket:
+## 编码实践 :speak_no_evil:
 
 - SSM脚手架 [传送门](https://github.com/AUGUSTRUSH8/ssm-admin)
 
 > **简单介绍**：技术栈大致有Spring MVC + Spring + Mybatis，其次优化整合了Redis缓存、Druid 数据库连接池等，可作为Web开发脚手架使用
+
+## 人工智能 :alien:
+
+- 一个六子棋算法实现，棋力不是很高，但速度还行，详情请看ReadMe！  [传送门](https://github.com/AUGUSTRUSH8/SixtChessGo)<br>
+- [opencv+tensorflow+cnn实现人脸识别](https://augustrush.me/post/face-recognition.html)<br>
+- [pix2pix图像超分辨率](https://augustrush.me/post/pix2pix-network.html)<br>
+- [python+opencv检测图片中二维码](https://augustrush.me/post/Qrcode-detection-and-recognition.html)<br>
+- [与CPTN（文字识别网络）作斗争的记录](https://augustrush.me/post/CPTN-network.html)<br>
+- [seetaface人脸识别](https://augustrush.me/post/seetaface-model-realize.html)
 
 ## My Blog 🐰
 
