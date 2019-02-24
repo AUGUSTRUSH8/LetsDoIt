@@ -52,7 +52,8 @@
 
 ## 编码实践 :speak_no_evil:
 
-- SSM脚手架 [传送门](https://github.com/AUGUSTRUSH8/ssm-admin)
+- SSM脚手架 [传送门](https://github.com/AUGUSTRUSH8/ssm-admin)<br>
+- VUE后台开发脚手架 [传送门](https://github.com/AUGUSTRUSH8/My-VUE-CLI)
 
 > **简单介绍**：技术栈大致有Spring MVC + Spring + Mybatis，其次优化整合了Redis缓存、Druid 数据库连接池等，可作为Web开发脚手架使用
 
