@@ -38,13 +38,16 @@
 
 ## 数据库 :floppy_disk:
 
-> [Mysql事务隔离级别](https://github.com/AUGUSTRUSH8/LetsDoIt/tree/master/MySQL)
+> [Mysql事务隔离级别](https://github.com/AUGUSTRUSH8/LetsDoIt/tree/master/MySQL)<br>
+- [从商品SPU和SKU表看数据库表结构设计](https://augustrush.me/post/database-design-and-comprehension.html)
 
 ## Java :coffee:
 - [Java后台耗时任务思路](https://augustrush.me/post/time-consuming-task-solution-java.html)<br>
 - [Java异常处理的正确放方式](https://augustrush.me/post/united-exception-handle.html)<br>
 - [springboot 笔记](https://augustrush.me/post/springboot-notes.html)<br>
 - [RabbitMQ学习笔记](https://augustrush.me/post/rabbitMQ-learning-and-coding.html)
+- [JVM闲散笔记](https://augustrush.me/post/some-jvm-notes.html)
+- [Java字节流和字符流辨析](https://augustrush.me/post/java-bytestream-and-charstream.html)
 
 ## 源码阅读 :hammer:
 - [Mybatis源码阅读第一话](https://augustrush.me/post/mybatis-sourcecode-reading-1.html)<br>
@@ -56,6 +59,7 @@
 > **简单介绍**：技术栈大致有Spring MVC + Spring + Mybatis，其次优化整合了Redis缓存、Druid 数据库连接池等，可作为Web开发脚手架使用
 
 - VUE后台开发脚手架 [传送门](https://github.com/AUGUSTRUSH8/My-VUE-CLI)
+- [FastDFS分布式文件系统安装及使用指南](https://augustrush.me/post/fastDFS-install-and-test.html)
 
 ## 人工智能 :alien:
 
