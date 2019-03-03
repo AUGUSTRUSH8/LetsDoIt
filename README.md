@@ -70,6 +70,8 @@
 - [与CPTN（文字识别网络）作斗争的记录](https://augustrush.me/post/CPTN-network.html)<br>
 - [seetaface人脸识别](https://augustrush.me/post/seetaface-model-realize.html)
 
+## 其他
+- [转]Java就业指导 [如何简洁明了不拖泥带水的介绍你有什么，你干了啥，以及你想要什么:wink:](https://blog.csdn.net/jackfrued/article/details/45035097#comments)
 ## My Blog 🐰
 
 更多技术阅读分享参见 [我的博客](https://augustrush.me)
