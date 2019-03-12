@@ -31,7 +31,6 @@
 - [深度优先搜索算法-正方形数组的数目](https://augustrush.me/post/depth-priority-algoritm.html)
 - [最优化商家利益-贪心](https://augustrush.me/post/optimize-the-customer-cost-and-tablesize.html)
 - [双指针的算法应用](https://augustrush.me/post/number-equals-to-reverse-number-min-operation-times.html)
-- 
 
 ## 操作系统 :computer:
 
