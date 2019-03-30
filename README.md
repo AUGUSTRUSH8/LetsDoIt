@@ -12,7 +12,7 @@
 
 > 怎么写出惊天地、泣鬼神的代码作品呢，One Step，Two Step，Three Step，Aha， There！
 
-> 这是一个有趣的Road Map库，我将把我开发当中遇到的不错的、有趣的项目放在这个库当中，或者是在此建立索引目录！其中主要的技术将围绕Java和Python展开，内容涵盖数据结构与算法、Java虚拟机、Java高并发编程、Python图像处理、网络爬虫、balabalabala... if you like it? star and fork it! 如果你也有有趣的项目，欢迎[留言](https://github.com/AUGUSTRUSH8/LetsDoIt/issues)
+> 这是一个有趣的Road Map库，我将把我开发当中遇到的不错的、有趣的项目放在这个库当中，或者是在此建立索引目录！其中主要的技术将围绕Java和Python展开，内容涵盖数据结构与算法、Java虚拟机、Java高并发编程、Python图像处理、网络爬虫、balabalabala... if you like it? star and PR! 如果你也有有趣的项目，欢迎[留言](https://github.com/AUGUSTRUSH8/LetsDoIt/issues)
 
 
 
@@ -35,11 +35,16 @@
 ## 操作系统 :computer:
 
 > [Linux从入门到入门](https://github.com/AUGUSTRUSH8/LetsDoIt/tree/master/linux) :wink:
+- [操作系统之进程管理](http://augustrush.me/post/process-and-threads.html)
+- [select、poll、epoll](https://augustrush.me/post/linux-io-and-select-poll-epoll.html)
 
 ## 网络 :cloud:
 - [TCP/IP原理](https://augustrush.me/post/tcp-ip-knowledge.html)
 - [网络七层架构回顾](https://augustrush.me/post/network-seven-layer-model-explain.html)
 - [HTTP与HTTPS原理相关](https://augustrush.me/post/http-principle.html)
+- [重新了解一下网络](https://augustrush.me/post/network-knowledge.html)
+- [TCP为什么会有Timeout这个状态](https://augustrush.me/post/why-tcp-timeout-state.html)
+
 ## 框架 :house:
 [重新认识一下Spring AOP](https://augustrush.me/post/spring-aop-comprehension.html)
 
@@ -48,6 +53,9 @@
 > [Mysql事务隔离级别](https://github.com/AUGUSTRUSH8/LetsDoIt/tree/master/MySQL)<br>
 - [从商品SPU和SKU表看数据库表结构设计](https://augustrush.me/post/database-design-and-comprehension.html)<br>
 - [数据库表连接的理解](https://augustrush.me/post/mysql-join-operation-comprehension.html)
+- [开发所应该知道的MySQL](https://augustrush.me/post/mysql-you-need-to-know.html)
+- [MySQL主键的选取](https://augustrush.me/post/mysql-id-generate.html)
+
 
 ## Java :coffee:
 - [Java后台耗时任务思路](https://augustrush.me/post/time-consuming-task-solution-java.html)<br>
@@ -58,6 +66,15 @@
 - [Java字节流和字符流辨析](https://augustrush.me/post/java-bytestream-and-charstream.html)<br>
 - [ConcurrentHashMap的实现原理(JDK1.7和JDK1.8)](https://augustrush.me/post/concurrentHashmap-read-and-comprehension.html)<br>
 - [典型排序算法](https://augustrush.me/post/sort-algorithm.html)
+- [Java异常封装-自定义错误码和描述](http://augustrush.me/post/java-exception-definetion-and-use.html)
+- [Java生产环境问题排查](https://augustrush.me/post/java-runtime-problem-check-and-solve.html)
+- [Why MQ and 选谁](https://augustrush.me/post/why-mq-and-which-to-choose.html)
+- [怎么保证数据库和缓存的双写一致性](https://augustrush.me/post/mysql-and-redis-consistency.html)
+- [Java对象数组的复制难道不是浅复制](https://augustrush.me/post/java-array-is-deepcopy-or-something-else.html)
+- [String str = new String("Hello");](https://augustrush.me/post/jvm-memory-allocate.html)
+- [消息队列消费的有序性问题](https://augustrush.me/post/rabbitmq-consume-by-order.html)
+- [悲观锁和乐观锁](https://augustrush.me/post/beiguan-lock-and-leguan-lock-wink.html)
+- [Java NIO解惑](https://augustrush.me/post/java-io-and-nio.html)
 
 ## 源码阅读 :hammer:
 - [Mybatis源码阅读第一话](https://augustrush.me/post/mybatis-sourcecode-reading-1.html)<br>
@@ -81,6 +98,11 @@
 - [python+opencv检测图片中二维码](https://augustrush.me/post/Qrcode-detection-and-recognition.html)<br>
 - [与CPTN（文字识别网络）作斗争的记录](https://augustrush.me/post/CPTN-network.html)<br>
 - [seetaface人脸识别](https://augustrush.me/post/seetaface-model-realize.html)
+
+## 工具 :penguin:
+- [Png图片无损压缩](https://tinypng.com)
+- [临时文件分享](https://send.firefox.com)
+- [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad?hl=zh-CN)
 
 ## 其他
 - [转]Java就业指导 [如何简洁明了不拖泥带水的介绍你有什么，你干了啥，以及你想要什么:wink:](https://blog.csdn.net/jackfrued/article/details/45035097#comments)<br>
