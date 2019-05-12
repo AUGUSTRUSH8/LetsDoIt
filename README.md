@@ -76,6 +76,7 @@
 - [消息队列消费的有序性问题](https://augustrush.me/post/rabbitmq-consume-by-order.html)
 - [悲观锁和乐观锁](https://augustrush.me/post/beiguan-lock-and-leguan-lock-wink.html)
 - [Java NIO解惑](https://augustrush.me/post/java-io-and-nio.html)
+- [Java8新特性学习](https://huge0612.gitbooks.io/jdk8/content)
 
 ## 源码阅读 :hammer:
 - [Mybatis源码阅读第一话](https://augustrush.me/post/mybatis-sourcecode-reading-1.html)<br>
