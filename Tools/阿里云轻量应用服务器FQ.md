@@ -5,6 +5,10 @@
 - 方便管理
 - 多用途
 
+#### Video Site
+
+- https://www.youtube.com/watch?v=01mU_z5Grso
+
 #### 步骤概要
 - 1.购买链接：[http://t.cn/AiKBsEQb](https://www.youtube.com/redirect?q=http%3A%2F%2Ft.cn%2FAiKBsEQb&redir_token=L7pTLMlqVooFo-YA-zphg4Xsf6J8MTU2NzQxMTAzMUAxNTY3MzI0NjMx&v=01mU_z5Grso&event=video_description)
 - 2.选择购买轻量服务器（优先选择香港地区的服务器，其次新加坡），系统建议选择Debian
