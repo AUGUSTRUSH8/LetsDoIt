@@ -106,6 +106,7 @@
 - [临时文件分享](https://send.firefox.com)
 - [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad?hl=zh-CN)
 - [Git常规操作-非常清晰](http://rogerdudler.github.io/git-guide/index.zh.html)
+- [Git常规操作](https://i.linuxtoy.org/docs/guide/ch28.html)
 - [SQL格式化工具](http://www.dpriver.com/pp/sqlformat.htm)
 - [用好IDEA, 从码农到coder](https://wizardforcel.gitbooks.io/guobinhit-intellij-idea-tutorial)
 
