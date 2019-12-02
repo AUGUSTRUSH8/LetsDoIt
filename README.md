@@ -118,7 +118,9 @@
 - [REST API的安全访问进化](https://augustrush.me/post/Rest-api-security-revolution.html)
 - [Linux指令之awk](https://augustrush.me/post/linux-command-awk.html)
 - [正则表达式语法简介](https://augustrush.me/post/regular-expression-introduction.html)
-- [虚拟化简史](https://blog.britesnow.com/understanding-kubernetes-value-867c163d5ed2)
+
+## 他山之石
+- [我读过的不错博文](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/%E8%AF%BB%E8%BF%87%E4%B8%8D%E9%94%99%E7%9A%84%E5%8D%9A%E6%96%87.md)
 ## My Blog 🐰
 
 更多技术阅读分享参见 [我的博客](https://augustrush.me)
