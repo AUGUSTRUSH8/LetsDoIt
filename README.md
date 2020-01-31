@@ -56,7 +56,7 @@
 - [数据库表连接的理解](https://augustrush.me/post/mysql-join-operation-comprehension.html)
 - [开发所应该知道的MySQL](https://augustrush.me/post/mysql-you-need-to-know.html)
 - [MySQL主键的选取](https://augustrush.me/post/mysql-id-generate.html)
-- [阿里新零售数据库设计与实战:tv:](https://coding.imooc.com/class/chapter/353.html)——讲解的不错，实操性很强，推荐
+- [:tv:阿里新零售数据库设计与实战](https://coding.imooc.com/class/chapter/353.html)——讲解的不错，实操性很强，推荐
 
 
 ## Java :coffee:
