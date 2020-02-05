@@ -1,1 +1,0 @@
-:bow_and_arrow:

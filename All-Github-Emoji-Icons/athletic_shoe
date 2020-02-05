@@ -1,1 +1,0 @@
-:athletic_shoe:
