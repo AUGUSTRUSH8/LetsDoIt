@@ -24,6 +24,12 @@
 
 
 
+## TODO List
+
+- [ ] 完善docsify（https://blog.augustrush8.com/LetsDoIt）
+
+- [ ] 同步部分更新博文到此列表
+
 ## 算法与数据结构 :pencil2: 
 
 - 在这里首先推荐Apache CN的一个算法仓库哈，非常优秀:wink:  [传送门](https://github.com/apachecn/awesome-algorithm)<br>

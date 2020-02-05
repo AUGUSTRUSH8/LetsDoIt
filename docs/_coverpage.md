@@ -1,4 +1,4 @@
-<img src="./logo1.jpg"  width="400" />
+<img src="./coverimg.jpg"  width="400" />
 
 
 > `Let's Do It`：进击的程序猿。
