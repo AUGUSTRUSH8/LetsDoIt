@@ -26,7 +26,7 @@
 
 ## TODO List
 
-- [ ] 完善docsify（https://blog.augustrush8.com/LetsDoIt）
+- [ ] 完善docsify（[尝鲜连接](https://blog.augustrush8.com/LetsDoIt)）
 
 - [ ] 同步部分更新博文到此列表
 
