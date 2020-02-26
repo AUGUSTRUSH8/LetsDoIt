@@ -63,6 +63,7 @@
 - [开发所应该知道的MySQL](https://blog.augustrush8.com/post/mysql-you-need-to-know.html)
 - [MySQL主键的选取](https://blog.augustrush8.com/post/mysql-id-generate.html)
 - [:tv:阿里新零售数据库设计与实战](https://coding.imooc.com/class/chapter/353.html)——讲解的不错，实操性很强，推荐
+- [一次SQL查询优化原理分析-回表的问题](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Database/MySQL/一次SQL查询优化原理分析.md)
 
 
 ## Java :coffee:
