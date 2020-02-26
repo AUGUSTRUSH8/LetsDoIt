@@ -57,13 +57,14 @@
 
 ## 数据库 :floppy_disk:
 
-> [Mysql事务隔离级别](https://github.com/AUGUSTRUSH8/LetsDoIt/tree/master/Database/MySQL)<br>
-- [从商品SPU和SKU表看数据库表结构设计](https://blog.augustrush8.com/post/database-design-and-comprehension.html)<br>
+> [Mysql事务隔离级别](https://github.com/AUGUSTRUSH8/LetsDoIt/tree/master/Database/MySQL)
+- [从商品SPU和SKU表看数据库表结构设计](https://blog.augustrush8.com/post/database-design-and-comprehension.html)
 - [数据库表连接的理解](https://blog.augustrush8.com/post/mysql-join-operation-comprehension.html)
 - [开发所应该知道的MySQL](https://blog.augustrush8.com/post/mysql-you-need-to-know.html)
 - [MySQL主键的选取](https://blog.augustrush8.com/post/mysql-id-generate.html)
 - [:tv:阿里新零售数据库设计与实战](https://coding.imooc.com/class/chapter/353.html)——讲解的不错，实操性很强，推荐
 - [一次SQL查询优化原理分析-回表的问题](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Database/MySQL/一次SQL查询优化原理分析.md)
+- [MySQL知识拾遗](http://blog.augustrush8.com/post/mysql-knowledge-review.html)
 
 
 ## Java :coffee:
@@ -91,6 +92,7 @@
 ## Web开发 :sweat_drops:
 
 - [一个接口关联了十几张表怎么办](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/一个接口关联了十几张表怎么办.md)
+- [程序猿需要了解业务](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Reading/程序猿需要了解业务.md)
 
 ## 源码阅读 :hammer:
 
@@ -120,6 +122,7 @@
 - [Png图片无损压缩](https://tinypng.com)
 - [临时文件分享](https://send.firefox.com)
 - [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad?hl=zh-CN)
+- [Git知识拾遗](http://blog.augustrush8.com/post/git-knowledge-review.html)
 - [Git常规操作-非常清晰](http://rogerdudler.github.io/git-guide/index.zh.html)
 - [Git常规操作](https://i.linuxtoy.org/docs/guide/ch28.html)
 - [SQL格式化工具](http://www.dpriver.com/pp/sqlformat.htm)
