@@ -118,6 +118,7 @@
 - [python+opencv检测图片中二维码](https://blog.augustrush8.com/post/Qrcode-detection-and-recognition.html)<br>
 - [与CPTN（文字识别网络）作斗争的记录](https://blog.augustrush8.com/post/CPTN-network.html)<br>
 - [seetaface人脸识别](https://blog.augustrush8.com/post/seetaface-model-realize.html)
+- [10个优秀好用的后台UI框架](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/10个优秀好用的后台UI框架.md)
 
 ## 工具 :penguin:
 - [Png图片无损压缩](https://tinypng.com)
