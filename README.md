@@ -93,6 +93,7 @@
 
 - [一个接口关联了十几张表怎么办](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/一个接口关联了十几张表怎么办.md)
 - [程序猿需要了解业务](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Reading/程序猿需要了解业务.md)
+- [不得不说的限流算法](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/%E9%99%90%E6%B5%81%E7%AE%97%E6%B3%95.md)
 
 ## 源码阅读 :hammer:
 
