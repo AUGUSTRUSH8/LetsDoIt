@@ -68,13 +68,13 @@
 
 
 ## Java :coffee:
-- [Java后台耗时任务思路](https://blog.augustrush8.com/post/time-consuming-task-solution-java.html)<br>
-- [Java异常处理的正确放方式](https://blog.augustrush8.com/post/united-exception-handle.html)<br>
-- [springboot 笔记](https://blog.augustrush8.com/post/springboot-notes.html)<br>
-- [RabbitMQ学习笔记](https://blog.augustrush8.com/post/rabbitMQ-learning-and-coding.html)<br>
-- [JVM闲散笔记](https://blog.augustrush8.com/post/some-jvm-notes.html)<br>
-- [Java字节流和字符流辨析](https://blog.augustrush8.com/post/java-bytestream-and-charstream.html)<br>
-- [ConcurrentHashMap的实现原理(JDK1.7和JDK1.8)](https://blog.augustrush8.com/post/concurrentHashmap-read-and-comprehension.html)<br>
+- [Java后台耗时任务思路](https://blog.augustrush8.com/post/time-consuming-task-solution-java.html)
+- [Java异常处理的正确放方式](https://blog.augustrush8.com/post/united-exception-handle.html)
+- [springboot 笔记](https://blog.augustrush8.com/post/springboot-notes.html)
+- [RabbitMQ学习笔记](https://blog.augustrush8.com/post/rabbitMQ-learning-and-coding.html)
+- [JVM闲散笔记](https://blog.augustrush8.com/post/some-jvm-notes.html)
+- [Java字节流和字符流辨析](https://blog.augustrush8.com/post/java-bytestream-and-charstream.html)
+- [ConcurrentHashMap的实现原理(JDK1.7和JDK1.8)](https://blog.augustrush8.com/post/concurrentHashmap-read-and-comprehension.html)
 - [典型排序算法](https://blog.augustrush8.com/post/sort-algorithm.html)
 - [Java异常封装-自定义错误码和描述](http://blog.augustrush8.com/post/java-exception-definetion-and-use.html)
 - [Java生产环境问题排查](https://blog.augustrush8.com/post/java-runtime-problem-check-and-solve.html)
@@ -88,25 +88,29 @@
 - [Java8新特性学习](https://huge0612.gitbooks.io/jdk8/content)
 - [Java反射重温](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Program-lang/Java/Java反射.md)
 - [Lombok优劣分析](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Program-lang/Java/Lombok优劣.md)
+- [Java到底是值传递还是引用传递](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Program-lang/Java/Java到底是值传递还是引用传递.md)
+- [你会用Java生成随机数吗](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Program-lang/Java/你会用Java生成随机数吗.md)
 
 ## Web开发 :sweat_drops:
 
 - [一个接口关联了十几张表怎么办](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/一个接口关联了十几张表怎么办.md)
 - [程序猿需要了解业务](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Reading/程序猿需要了解业务.md)
 - [不得不说的限流算法](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/%E9%99%90%E6%B5%81%E7%AE%97%E6%B3%95.md)
+- [认识一下 RabbitMQ](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/认识一下 RabbitMQ.md)
+- [阿里巴巴Java开发手册](https://www.bookstack.cn/read/alibaba-java/%E7%BC%96%E7%A8%8B%E8%A7%84%E7%BA%A6-%E5%B9%B6%E5%8F%91%E5%A4%84%E7%90%86.md)
 
 ## 源码阅读 :hammer:
 
-- [Mybatis源码阅读第一话](https://blog.augustrush8.com/post/mybatis-sourcecode-reading-1.html)<br>
+- [Mybatis源码阅读第一话](https://blog.augustrush8.com/post/mybatis-sourcecode-reading-1.html)
 - [Mybatis源码阅读第二话--解析器模块](https://blog.augustrush8.com/post/mybatis-sourcecode-reading-2.html)
 
 ## 编码实践 :speak_no_evil:
 
-- SSM脚手架 [传送门](https://github.com/AUGUSTRUSH8/ssm-admin)<br>
+- SSM脚手架 [传送门](https://github.com/AUGUSTRUSH8/ssm-admin)
 > **简单介绍**：技术栈大致有Spring MVC + Spring + Mybatis，其次优化整合了Redis缓存、Druid 数据库连接池等，可作为Web开发脚手架使用
 
-- VUE后台开发脚手架 [传送门](https://github.com/AUGUSTRUSH8/My-VUE-CLI)<br>
-- [FastDFS分布式文件系统安装及使用指南](https://blog.augustrush8.com/post/fastDFS-install-and-test.html)<br>
+- VUE后台开发脚手架 [传送门](https://github.com/AUGUSTRUSH8/My-VUE-CLI)
+- [FastDFS分布式文件系统安装及使用指南](https://blog.augustrush8.com/post/fastDFS-install-and-test.html)
 - [Python+Selenium实现自动报税](https://blog.augustrush8.com/post/python-crawler-on-auto-fill-the-form.html)
 - [机打票据智能分类定位识别](https://github.com/AUGUSTRUSH8/ImageProcess)
 - [shell脚本应用实例--持续更新](https://blog.augustrush8.com/post/shell-script-solution.html)
@@ -137,6 +141,7 @@
 - [REST API的安全访问进化](https://blog.augustrush8.com/post/Rest-api-security-revolution.html)
 - [Linux指令之awk](https://blog.augustrush8.com/post/linux-command-awk.html)
 - [正则表达式语法简介](https://blog.augustrush8.com/post/regular-expression-introduction.html)
+- [淘宝四大服务中心](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Business/淘宝四大服务中心.md)
 
 ## 他山之石
 - [我读过的不错博文](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Reading/读过不错的博文.md)
