@@ -96,7 +96,7 @@
 - [一个接口关联了十几张表怎么办](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/一个接口关联了十几张表怎么办.md)
 - [程序猿需要了解业务](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Reading/程序猿需要了解业务.md)
 - [不得不说的限流算法](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/%E9%99%90%E6%B5%81%E7%AE%97%E6%B3%95.md)
-- [认识一下 RabbitMQ](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/认识一下 RabbitMQ.md)
+- [认识一下 RabbitMQ](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/认识一下RabbitMQ.md)
 - [阿里巴巴Java开发手册](https://www.bookstack.cn/read/alibaba-java/%E7%BC%96%E7%A8%8B%E8%A7%84%E7%BA%A6-%E5%B9%B6%E5%8F%91%E5%A4%84%E7%90%86.md)
 - [10个优秀好用的后台UI框架](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/10个优秀好用的后台UI框架.md)
 
