@@ -65,6 +65,8 @@
 - [:tv:阿里新零售数据库设计与实战](https://coding.imooc.com/class/chapter/353.html)——讲解的不错，实操性很强，推荐
 - [一次SQL查询优化原理分析-回表的问题](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Database/MySQL/一次SQL查询优化原理分析.md)
 - [MySQL知识拾遗](http://blog.augustrush8.com/post/mysql-knowledge-review.html)
+- [Mysql的varchar(20)到底可以存储多少个中文字符](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Database/MySQL/Mysql的varchar(20)到底可以存储多少个中文字符.md)
+- [mysql当中小数用什么数据类型](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Database/MySQL/mysql当中小数用什么数据类型.md)
 
 
 ## Java :coffee:
@@ -99,6 +101,7 @@
 - [认识一下 RabbitMQ](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/认识一下RabbitMQ.md)
 - [阿里巴巴Java开发手册](https://www.bookstack.cn/read/alibaba-java/%E7%BC%96%E7%A8%8B%E8%A7%84%E7%BA%A6-%E5%B9%B6%E5%8F%91%E5%A4%84%E7%90%86.md)
 - [10个优秀好用的后台UI框架](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/10个优秀好用的后台UI框架.md)
+- [MyBatis-generator自动生成代码](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/MyBatis-generator自动生成代码.md)
 
 
 
