@@ -102,6 +102,7 @@
 - [阿里巴巴Java开发手册](https://www.bookstack.cn/read/alibaba-java/%E7%BC%96%E7%A8%8B%E8%A7%84%E7%BA%A6-%E5%B9%B6%E5%8F%91%E5%A4%84%E7%90%86.md)
 - [10个优秀好用的后台UI框架](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/10个优秀好用的后台UI框架.md)
 - [MyBatis-generator自动生成代码](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/MyBatis-generator自动生成代码.md)
+- [Java日志使用姿势](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/Java日志使用姿势.md)
 
 
 

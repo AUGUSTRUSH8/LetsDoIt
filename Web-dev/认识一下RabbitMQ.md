@@ -140,3 +140,153 @@ RabbitMQ 使用 `*` 和 `#` 这2个通配符。
 - **自动通知**：只要 consumer 接收到消息即可，不管是否处理完成。
 - **明确显示通知**：只有在 consumer 发送回来一个确认信息后才可以，这样保证 consumer 处理完成后再删除。
 
+#### 在CentOS 7上安装RabbitMQ服务器
+
+RabbitMQ是一个免费的开源企业消息代理软件。 它是用Erlang编写的，并实现了高级消息队列协议（AMQP）。 它提供所有主要编程语言的客户端库。 它支持多种消息传递协议，消息队列，传送确认，灵活的路由到队列，多种交换类型。 它还提供易于使用的HTTP-API，命令行工具和用于管理RabbitMQ的Web UI；
+
+**更新基本系统**
+
+```shell
+yum -y update
+```
+
+**安装Erlang**
+
+RabbitMQ是用Erlang语言编写的，这里将安装最新版本的Erlang到服务器中。 Erlang在默认的YUM存储库中不可用，因此需要安装EPEL存储库。 运行以下命令
+
+```shell
+yum -y install epel-release
+yum -y update
+```
+
+使用以下命令安装Erlang。
+
+```shell
+yum -y install erlang socat
+```
+
+现在可以使用以下命令检查Erlang版本。
+
+```shell
+erl -version
+```
+
+将得到以下输出。
+
+```shell
+[root@liptan-pc ~]# erl -version
+Erlang (ASYNC_THREADS,HIPE) (BEAM) emulator version 5.10.4
+```
+
+**安装RabbitMQ**
+
+这里RabbitMQ为预编译并可以直接安装的RPM软件包。 唯一需要的依赖是Erlang环境。 我们已经安装了Erlang，可以进一步下载RabbitMQ。 通过以下命令下载Erlang RPM软件包。
+
+```shell
+wget https://www.rabbitmq.com/releases/rabbitmq-server/v3.6.10/rabbitmq-server-3.6.10-1.el7.noarch.rpm
+```
+
+如果你没有安装wget ，可以运行yum -y install wget 。
+
+通过运行导入GPG密钥：
+
+```shell
+rpm –import https://www.rabbitmq.com/rabbitmq-release-signing-key.asc
+```
+
+运行RPM安装RPM包：
+
+```shell
+rpm -Uvh rabbitmq-server-3.6.10-1.el7.noarch.rpm
+```
+
+RabbitMQ现已安装在您的系统上。	
+
+**开启RabbitMQ**
+
+可以通过运行以下命令启动RabbitMQ服务器进程。
+
+```shell
+systemctl start rabbitmq-server
+```
+
+要在引导时自动启动RabbitMQ，运行以下命令。
+
+```shell
+systemctl enable rabbitmq-server
+```
+
+要检查RabbitMQ服务器的状态，运行：
+
+```shell
+systemctl status rabbitmq-server
+```
+
+如果启动成功，应该得到以下输出。
+
+```shell
+? rabbitmq-server.service - RabbitMQ broker
+   Loaded: loaded (/usr/lib/systemd/system/rabbitmq-server.service; enabled; vendor preset: disabled)
+   Active: active (running) since Sat 2017-07-15 18:59:14 UTC; 3min 22s ago
+ Main PID: 29006 (beam.smp)
+   Status: "Initialized"
+   CGroup: /system.slice/rabbitmq-server.service
+           ??29006 /usr/lib64/erlang/erts-9.0/bin/beam.smp -W w -A 64 -P 1048576 -t 5000000 -stbt db -zdbbl 32000 -K tr...
+           ??29149 /usr/lib64/erlang/erts-9.0/bin/epmd -daemon
+           ??29283 erl_child_setup 1024
+           ??29303 inet_gethost 4
+           ??29304 inet_gethost 4
+
+Jul 15 18:59:13 centos rabbitmq-server[29006]: Starting broker...
+Jul 15 18:59:14 centos rabbitmq-server[29006]: systemd unit for activation check: "rabbitmq-server.service"
+Jul 15 18:59:14 centos systemd[1]: Started RabbitMQ broker.
+Jul 15 18:59:14 centos rabbitmq-server[29006]: completed with 0 plugins.
+```
+
+**修改防火墙规则**
+
+我这里使用的是阿里云轻量级应用服务器，需要在Web端放开**15672和5672**两个端口，一个是Web运维的网络端口，一个是MQ服务器访问本身需要开放的端口。
+
+如果是其他单机系统环境，请搜索对应指令放开端口防火墙拦截。
+
+**访问Web控制台**
+
+启动RabbitMQ Web管理控制台，方法是运行：
+
+```shell
+rabbitmq-plugins enable rabbitmq_management
+```
+
+通过运行以下命令，将RabbitMQ文件的所有权提供给RabbitMQ用户：
+
+```shell
+chown -R rabbitmq:rabbitmq /var/lib/rabbitmq/
+```
+
+现在，需要为RabbitMQ Web管理控制台创建管理用户。 运行以下命令。
+
+```
+rabbitmqctl add_user admin StrongPassword
+rabbitmqctl set_user_tags admin administrator
+rabbitmqctl set_permissions -p / admin “.*” “.*” “.*”
+```
+
+确保将StrongPassword更改为非常强大的密码。
+
+要访问RabbitMQ的管理面板，使用浏览器打开以下URL。
+
+```shell
+http://Your_Server_IP:15672/
+```
+
+然后你就会看到RabbitMQ的Web管理界面。
+
+**遇到的坑及解决办法**
+
+1.RabbitMq 本地连接报错 org.springframework.amqp.AmqpIOException: java.io.IOException
+
+解决办法参见[链接](https://blog.csdn.net/qq_22638399/article/details/81705606)
+
+**SpringBoot测试与RabbitMQ交互**
+
+参见[链接](https://www.cnblogs.com/5ishare/p/10163318.html)
