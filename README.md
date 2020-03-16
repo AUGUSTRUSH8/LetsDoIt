@@ -141,6 +141,7 @@
 - [用好IDEA, 从码农到coder](https://wizardforcel.gitbooks.io/guobinhit-intellij-idea-tutorial)
 - [Clover-给Windows资源管理器Chrome一样的标签管理功能](http://cn.ejie.me)
 - [QTTabBar 「资源管理器」该有的样子](https://sspai.com/post/52521)
+- [Windows上的shell终端--babun](http://babun.github.io)
 
 ## 其他
 - [转]Java就业指导 [如何简洁明了不拖泥带水的介绍你有什么，你干了啥，以及你想要什么:wink:](https://blog.csdn.net/jackfrued/article/details/45035097#comments)<br>
