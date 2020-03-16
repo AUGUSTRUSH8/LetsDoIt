@@ -139,6 +139,7 @@
 - [Git常规操作](https://i.linuxtoy.org/docs/guide/ch28.html)
 - [SQL格式化工具](http://www.dpriver.com/pp/sqlformat.htm)
 - [用好IDEA, 从码农到coder](https://wizardforcel.gitbooks.io/guobinhit-intellij-idea-tutorial)
+- [Clover-给Windows资源管理器Chrome一样的标签管理功能](http://cn.ejie.me)
 
 ## 其他
 - [转]Java就业指导 [如何简洁明了不拖泥带水的介绍你有什么，你干了啥，以及你想要什么:wink:](https://blog.csdn.net/jackfrued/article/details/45035097#comments)<br>
