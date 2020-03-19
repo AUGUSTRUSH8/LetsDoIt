@@ -143,6 +143,7 @@
 - [QTTabBar 「资源管理器」该有的样子](https://sspai.com/post/52521)
 - [Windows上的shell终端--babun](http://babun.github.io)
 - [程序猿必备工具--Dash](https://juejin.im/post/5b226d58e51d4558bd516a36)
+- [Chrome MySQL Admin——数据库可视化工具](https://www.eisbahn.jp/chrome_mysql_admin)
 
 ## 其他
 - [转]Java就业指导 [如何简洁明了不拖泥带水的介绍你有什么，你干了啥，以及你想要什么:wink:](https://blog.csdn.net/jackfrued/article/details/45035097#comments)<br>
