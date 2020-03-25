@@ -38,6 +38,7 @@
 - [最优化商家利益-贪心](https://blog.augustrush8.com/post/optimize-the-customer-cost-and-tablesize.html)
 - [双指针的算法应用](https://blog.augustrush8.com/post/number-equals-to-reverse-number-min-operation-times.html)
 - [可视化算法和数据结构,国外教育网站,很直观](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- 我在Codewars上在线练习，这是我目前的badge  ![](https://www.codewars.com/users/AUGUSTRUSH8/badges/large)
 
 ## 操作系统 :computer:
 
