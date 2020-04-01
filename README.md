@@ -160,6 +160,8 @@
 
 ## 他山之石
 - [我读过的不错博文](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Reading/读过不错的博文.md)
+- [Hbase深入浅出](https://www.ibm.com/developerworks/cn/analytics/library/ba-cn-bigdata-hbase/index.html)
+
 ## My Blog 🐰
 
 更多技术阅读分享参见 [我的博客](https://blog.augustrush8.com)
