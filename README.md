@@ -158,6 +158,7 @@
 - [淘宝四大服务中心](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Business/淘宝四大服务中心.md)
 - [玩转云服务器](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Tools/%E7%8E%A9%E8%BD%AC%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
 - [转][作为一个程序猿，你桌子上都有些什么](https://www.zhihu.com/question/318759881/answer/923963410)
+- [一份详尽的Telegram使用指南](https://tingtalk.me/telegram/)
 
 ## 他山之石
 - [我读过的不错博文](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Reading/读过不错的博文.md)
