@@ -94,6 +94,9 @@
 - [Lombok优劣分析](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Program-lang/Java/Lombok优劣.md)
 - [Java到底是值传递还是引用传递](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Program-lang/Java/Java到底是值传递还是引用传递.md)
 - [你会用Java生成随机数吗](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Program-lang/Java/你会用Java生成随机数吗.md)
+- [32位JVM和64位JVM的区别](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Program-lang/Java/32位JVM和64位JVM的区别.md)
+
+
 
 ## Web开发 :sweat_drops:
 
@@ -157,6 +160,7 @@
 - [正则表达式语法简介](https://blog.augustrush8.com/post/regular-expression-introduction.html)
 - [淘宝四大服务中心](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Business/淘宝四大服务中心.md)
 - [玩转云服务器](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Tools/%E7%8E%A9%E8%BD%AC%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
+- test
 
 ## 他山之石
 - [我读过的不错博文](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Reading/读过不错的博文.md)
