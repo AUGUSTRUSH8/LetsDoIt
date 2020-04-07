@@ -142,6 +142,7 @@
 - [Git知识拾遗](http://blog.augustrush8.com/post/git-knowledge-review.html)
 - [Git常规操作-非常清晰](http://rogerdudler.github.io/git-guide/index.zh.html)
 - [Git常规操作](https://i.linuxtoy.org/docs/guide/ch28.html)
+- [手把手带你玩 git 之各种撤销](<https://www.jianshu.com/p/8c22572b84bb>)
 - [SQL格式化工具](http://www.dpriver.com/pp/sqlformat.htm)
 - [用好IDEA, 从码农到coder](https://wizardforcel.gitbooks.io/guobinhit-intellij-idea-tutorial)
 - [Clover-给Windows资源管理器Chrome一样的标签管理功能](http://cn.ejie.me)
@@ -149,6 +150,7 @@
 - [Windows上的shell终端--babun](http://babun.github.io)
 - [程序猿必备工具--Dash](https://juejin.im/post/5b226d58e51d4558bd516a36)
 - [Chrome MySQL Admin——数据库可视化工具](https://www.eisbahn.jp/chrome_mysql_admin)
+- [装上油猴脚本，你的浏览器才有了灵魂](<https://tingtalk.me/userscripts/>)
 
 ## 其他
 - [转]Java就业指导 [如何简洁明了不拖泥带水的介绍你有什么，你干了啥，以及你想要什么:wink:](https://blog.csdn.net/jackfrued/article/details/45035097#comments)<br>
@@ -162,6 +164,7 @@
 - [玩转云服务器](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Tools/%E7%8E%A9%E8%BD%AC%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
 - (转)[作为一个程序猿，你桌子上都有些什么](https://www.zhihu.com/question/318759881/answer/923963410)
 - [一份详尽的Telegram使用指南](https://tingtalk.me/telegram/)
+- [VPS挂机赚点小钱](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Reading/VPS挂机赚钱.md)
 
 
 
