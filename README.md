@@ -46,6 +46,7 @@
 > [Linux从入门到入门](https://github.com/AUGUSTRUSH8/LetsDoIt/tree/master/OperatingSystem/Linux) :wink:
 - [操作系统之进程管理](http://blog.augustrush8.com/post/process-and-threads.html)
 - [select、poll、epoll](https://blog.augustrush8.com/post/linux-io-and-select-poll-epoll.html)
+- [Linux free命令下的free和available的区别](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/OperatingSystem/Linux/Linux free命令下的free和available的区别.md)
 
 ## 网络 :cloud:
 - [TCP/IP原理](https://blog.augustrush8.com/post/tcp-ip-knowledge.html)
@@ -165,6 +166,9 @@
 - (转)[作为一个程序猿，你桌子上都有些什么](https://www.zhihu.com/question/318759881/answer/923963410)
 - [一份详尽的Telegram使用指南](https://tingtalk.me/telegram/)
 - [VPS挂机赚点小钱](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Other/Reading/VPS挂机赚钱.md)
+- [:tv:康奈尔笔记法学习--good](<https://www.bilibili.com/video/av38047057?zw>)
+
+- [数位板配合win white board手绘](<https://topbook.cc/overview?selectedArticle=1774>)
 
 
 
