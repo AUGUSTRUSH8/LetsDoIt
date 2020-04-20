@@ -109,6 +109,7 @@
 - [10个优秀好用的后台UI框架](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/10个优秀好用的后台UI框架.md)
 - [MyBatis-generator自动生成代码](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/MyBatis-generator自动生成代码.md)
 - [Java日志使用姿势](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/Java日志使用姿势.md)
+- [拿 Nginx 部署你的静态网页](https://segmentfault.com/a/1190000010487262)
 
 
 
