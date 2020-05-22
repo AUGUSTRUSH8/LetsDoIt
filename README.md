@@ -147,6 +147,7 @@
 - [Git常规操作](https://i.linuxtoy.org/docs/guide/ch28.html)
 - [手把手带你玩 git 之各种撤销](<https://www.jianshu.com/p/8c22572b84bb>)
 - [Git动画演示各种操作-翻译版](https://www.jianshu.com/p/81cb0737f36f)
+- [oh,shit,git](https://ohshitgit.com/#change-last-commit-message)
 - [SQL格式化工具](http://www.dpriver.com/pp/sqlformat.htm)
 - [用好IDEA, 从码农到coder](https://wizardforcel.gitbooks.io/guobinhit-intellij-idea-tutorial)
 - [Clover-给Windows资源管理器Chrome一样的标签管理功能](http://cn.ejie.me)
