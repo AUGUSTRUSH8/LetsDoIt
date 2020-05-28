@@ -113,6 +113,9 @@
 - [Xshell 配置 ssh 免密码登录 - 密钥公钥 (Public key)](https://www.cnblogs.com/dadonggg/p/8350423.html)
 - [安装JDK、MySQL环境](https://juejin.im/post/5d67cb275188256db064474d)
 - [Linux忘记MySQL密码的做法](https://blog.csdn.net/irokay/article/details/72878834)
+- [Spring Boot Maven 打包可执行 Jar 文件](https://blog.csdn.net/smilecall/article/details/56288972)
+- [Windows 下导入导出 mysql 数据库](https://blog.csdn.net/qq_32706349/article/details/83819869)
+- [linux 下导入、导出 mysql 数据库命令](https://www.cnblogs.com/jiunadianshi/articles/2022334.html)
 
 
 ## 源码阅读 :hammer:
