@@ -111,7 +111,8 @@
 - [Java日志使用姿势](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Web-dev/Java日志使用姿势.md)
 - [拿 Nginx 部署你的静态网页](https://segmentfault.com/a/1190000010487262)
 - [Xshell 配置 ssh 免密码登录 - 密钥公钥 (Public key)](https://www.cnblogs.com/dadonggg/p/8350423.html)
-
+- [安装JDK、MySQL环境](https://juejin.im/post/5d67cb275188256db064474d)
+- [Linux忘记MySQL密码的做法](https://blog.csdn.net/irokay/article/details/72878834)
 
 
 ## 源码阅读 :hammer:
