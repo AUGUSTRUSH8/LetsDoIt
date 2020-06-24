@@ -198,6 +198,6 @@
 ## 不迷路
 关注公众号不迷路啊！【野生技术汇】
 
-http://image.augustrush8.com/images/mpqrcode.jpg
+![公众号](http://image.augustrush8.com/images/mpqrcode.jpg)
 
 
