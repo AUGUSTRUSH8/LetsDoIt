@@ -96,6 +96,7 @@
 - [Java到底是值传递还是引用传递](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Program-lang/Java/Java到底是值传递还是引用传递.md)
 - [你会用Java生成随机数吗](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Program-lang/Java/你会用Java生成随机数吗.md)
 - [32位JVM和64位JVM的区别](https://github.com/AUGUSTRUSH8/LetsDoIt/blob/master/Program-lang/Java/32位JVM和64位JVM的区别.md)
+- [Spring Boot 使用枚举类型作为请求参数](https://xkcoding.com/2019/01/30/spring-boot-request-use-enums-params.html)
 
 
 
