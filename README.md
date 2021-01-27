@@ -197,7 +197,7 @@
 [git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn)
 
 ## 不迷路
-关注公众号不迷路啊！【野生技术汇】
+欢迎关注我，《代码真香》
 
 ![公众号](http://image.augustrush8.com/images/mpqrcode.jpg)
 
