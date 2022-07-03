@@ -54,6 +54,7 @@
 - [HTTP与HTTPS原理相关](https://blog.augustrush8.com/post/http-principle.html)
 - [重新了解一下网络](https://blog.augustrush8.com/post/network-knowledge.html)
 - [TCP为什么会有Timeout这个状态](https://blog.augustrush8.com/post/why-tcp-timeout-state.html)
+- [TCP长连接和短连接](https://blog.augustrush8.com/post/long-short-connection.html)
 
 ## 框架 :house:
 [重新认识一下Spring AOP](https://blog.augustrush8.com/post/spring-aop-comprehension.html)
