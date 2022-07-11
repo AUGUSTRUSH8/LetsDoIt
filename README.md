@@ -165,7 +165,7 @@
 - [Win画架构图工具--balsamiq mockups](https://www.cnblogs.com/tynam/p/10120776.html)
 
 ## 其他
-- [DDIA阅读笔录一](https://blog.augustrush8.com/post/tao-ddia-notes-1.html)
+- [DDIA阅读笔录一](https://blog.augustrush8.com/post/ddia-notes-1.html)
 - [淘口令技术实现](https://blog.augustrush8.com/post/tao-msg-tech-explain.html)
 - [转]Java就业指导 [如何简洁明了不拖泥带水的介绍你有什么，你干了啥，以及你想要什么:wink:](https://blog.csdn.net/jackfrued/article/details/45035097#comments)<br>
 - [世界那么大我想去看看之WireGuard](http://blog.augustrush8.com/post/wireguard-usage-and-instruction.html)<br>
