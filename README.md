@@ -145,6 +145,7 @@
 - [seetaface人脸识别](https://blog.augustrush8.com/post/seetaface-model-realize.html)
 
 ## 工具 :penguin:
+- [free-ss](https://free-ss.site/)
 - [Png图片无损压缩](https://tinypng.com)
 - [临时文件分享](https://send.firefox.com)
 - [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad?hl=zh-CN)
