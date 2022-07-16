@@ -146,6 +146,7 @@
 - [seetaface人脸识别](https://blog.augustrush8.com/post/seetaface-model-realize.html)
 
 ## 工具 :penguin:
+- [为开发者打造的演示文稿工具](https://cn.sli.dev/)
 - [拿来即用的全平台内网穿透工具](https://www.i996.me/)
 - [微信公众号同步助手](https://www.wechatsync.com/)
 - [ShareX-The best free and open source screenshot tool for Windows](https://getsharex.com/)
